@@ -1,0 +1,17 @@
+
+p
+java:S11924"ZDefine a constant instead of duplicating this literal "We have reached floor -- " 4 times.(ô•¤ì
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(çõŸ­
+\
+java:S1126)"AReplace this if-then-else statement by a single return statement.(Â¿ŽÙøÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ô•¤ì
+M	java:S1067"9Replace this use of System.out or System.err by a logger.(Öµë[
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(ô•¤ì
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(ô•¤ì
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(×•¦áþÿÿÿÿ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(ô•¤ì
+F
+java:S1068"0Remove this unused "currentState" private field.(øÆ×¸

@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+Y
+java:S1854"<Remove this useless assignment to local variable "request1".(Ï¾ð¤8Í˜åù 0
+^
+java:S1854	"<Remove this useless assignment to local variable "elevator".(É„ÐŒúÿÿÿÿ8Í˜åù 0
+L
+java:S1197"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ8Î˜åù 0
+J
+java:S1481"-Remove this unused "request1" local variable.(Ï¾ð¤8Ï˜åù 0
